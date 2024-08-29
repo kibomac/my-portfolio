@@ -1,0 +1,14 @@
+[
+    {
+        "title": "My GitHub CV",
+        "description": "Description of the project. A personal GitHub-hosted CV showcasing skills, projects, and professional background.",
+        "link": "https://kibomac.github.io/",
+        "image": "http://api.thumbalizr.com/?url=https://kibomac.github.io/"  // Replace with an actual image URL if available
+    },
+    {
+        "title": "My CV Site",
+        "description": "Description of the project. A personal CV website hosted on a custom domain, highlighting professional experience and achievements.",
+        "link": "https://calvinkiboma.co.uk/",
+        "image": "http://api.thumbalizr.com/?url=https://calvinkiboma.co.uk/"  // Replace with an actual image URL if available
+    }
+]
